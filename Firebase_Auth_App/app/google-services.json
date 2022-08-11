@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261066047026",
+    "project_id": "daniyalfirebase-666f4",
+    "storage_bucket": "daniyalfirebase-666f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261066047026:android:50fcd0ec063b439d67062b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261066047026-ro99kdi9o5m4b9gv4i4oqhm99ohbu4am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHvOpandOYJB02ulhdxlipNfnhAQQHGYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261066047026-ro99kdi9o5m4b9gv4i4oqhm99ohbu4am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
