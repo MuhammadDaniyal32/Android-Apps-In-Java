@@ -2,7 +2,7 @@
 
 ### Description
 
-_I build simple Calculater Application in android using java language with some scientific functions._
+_I build simple Calculator Application in android using java language with some scientific functions._
 
 
 
